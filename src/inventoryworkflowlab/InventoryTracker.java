@@ -1,3 +1,5 @@
+package inventoryworkflowlab;
+
 public class InventoryTracker {
 
     public static void main(String[] args) {
